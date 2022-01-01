@@ -2,7 +2,7 @@ Task-Per-Derivative: 1
 Task-Section: user
 Task-Description: Ubuntu Cinnamon desktop
 Task-Extended-Description: This task provides the Ubuntu Cinnamon desktop environment.
-Task-Key: ubuntu-cinnamon-desktop
+Task-Key: ubuntucinnamon-desktop
 Task-Seeds: desktop-common
 
 = Ubuntu Cinnamon Packages =
