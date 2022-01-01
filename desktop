@@ -1,0 +1,178 @@
+Task-Per-Derivative: 1
+Task-Section: user
+Task-Description: Ubuntu Cinnamon desktop
+Task-Extended-Description: This task provides the Ubuntu Cinnamon desktop environment.
+Task-Key: ubuntu-cinnamon-desktop
+Task-Seeds: desktop-common
+
+= Ubuntu Cinnamon Packages =
+ * plymouth-theme-ubuntucinnamon-spinner
+ * ubuntucinnamon-environment
+ * ubuntucinnamon-lightdm-theme
+ * ubuntucinnamon-wallpapers
+ * ubuntucinnamon-wallpapers-impish      # FIXME: Set to jammy when we finalize our wallpapers
+ * yaru-cinnamon-theme-gtk
+ * yaru-cinnamon-theme-icon
+
+= Cinnamon Desktop Environment Suite =
+ * cinnamon
+ * cinnamon-desktop-environment
+ * nemo
+ * (nemo-fileroller)
+ * (nemo-font-manager)
+ * (nemo-gtkhash)
+ * lightdm
+ * slick-greeter
+
+= Fonts =
+ * (fonts-arphic-ukai)
+ * (fonts-arphic-uming)
+ * (fonts-dejavu-core)
+ * (fonts-kacst-one)
+ * (fonts-noto-cjk)
+ * (fonts-sil-padauk)
+ * fonts-ubuntu
+
+= Common =
+ * acpi-support
+ * alsa-base
+ * alsa-utils
+ * bc
+ * bluez
+ * bluez-cups
+ * cups
+ * cups-bsd
+ * cups-client
+ * cups-filters
+ * ca-certificates
+ * doc-base
+ * eject
+ * ghostscript-x
+ * gnome-bluetooth
+ * gvfs-fuse
+ * htop
+ * (hunspell-de-at-frami)
+ * (hunspell-de-ch-frami)
+ * (hunspell-de-de-frami)
+ * hunspell-en-au
+ * hunspell-en-ca
+ * hunspell-en-gb
+ * hunspell-en-us
+ * hunspell-en-za
+ * (hunspell-es)
+ * (hunspell-fr)
+ * (hunspell-it)
+ * (hunspell-pt-br)
+ * (hunspell-pt-pt)
+ * (hunspell-ru)
+ * ibus
+ * ibus-gtk
+ * ibus-gtk3
+ * (ibus-hangul)
+ * (ibus-libpinyin)
+ * (ibus-m17n)
+ * (ibus-mozc)
+ * ibus-table
+ * (ibus-table-cangjie)
+ * (ibus-table-quick-classic)
+ * (ibus-table-wubi)
+ * (ibus-unikey)
+ * (snap:firefox)
+ * (kerneloops)
+ * (language-pack-de)
+ * (language-pack-es)
+ * (language-pack-fr)
+ * (language-pack-pt)
+ * (language-pack-ru)
+ * (laptop-detect)
+ * (libnss-mdns)
+ * (nano)
+ * (neofetch)
+ * network-manager
+ * network-manager-gnome
+ * orca
+ * printer-driver-brlaser
+ * printer-driver-c2esp
+ * printer-driver-foo2zjs
+ * printer-driver-m2300w
+ * printer-driver-min12xxw
+ * printer-driver-pnm2ppa
+ * printer-driver-ptouch
+ * printer-driver-pxljr
+ * printer-driver-sag-gdi
+ * printer-driver-splix
+ * pulseaudio
+ * pulseaudio-module-bluetooth
+ * python3
+ * rfkill
+ * (snapd)
+ * sudo
+ * tzdata
+ * ubuntu-advantage-tools
+ * ubuntu-drivers-common
+ * ubuntu-keyring
+ * ubuntu-minimal
+ * unzip
+ * wireless-tools
+ * whoopsie
+ * wpa-supplicant
+ * xdg-data
+ * xdg-user-dirs
+ * xdg-utils
+ * xkb
+ * xorg
+ * xz-utils
+ * zip
+
+= Apps =
+ * (deja-dup)
+ * (evince)
+ * (file-roller)
+ * (four-or-more)
+ * friendly-recovery
+ * (gedit)
+ * (gimp)
+ * (gnome-2048)
+ * (gnome-accessibility-themes)
+ * (gnome-calculator)
+ * (gnome-calendar)
+ * (gnome-chess)
+ * (gnome-disk-utility)
+ * (gnome-font-viewer)
+ * (gnome-icon-theme)
+ * (gnome-mahjongg)
+ * (gnome-mpv)
+ * (gnome-photos)
+ * (gnome-power-manager)
+ * (gnome-screenshot)
+ * (gnome-session-bin)
+ * (gnome-software)
+ * (gnome-software-plugin-snap)
+ * (gnome-sudoku)
+ * (gnome-system-monitor)
+ * (gthumb)
+ * (rhythmbox)
+ * (simple-scan)
+ * (speech-dispatcher)
+ * (synaptic)
+ * (thunderbird)
+ * (update-notifier)
+ * software-properties-gtk
+
+= LibreOffice Suite =
+ * (libreoffice)
+ * (libreoffice-calc)
+ * (libreoffice-draw)
+ * (libreoffice-gtk)
+ * (libreoffice-gtk2)
+ * (libreoffice-gtk3)
+ * (libreoffice-impress)
+ * (libreoffice-writer)
+
+= Language =
+ * (wamerican)
+ * (wdeutch)
+ * (wfrench)
+ * (wgerman)
+ * (wportuguese)
+ * (wrussian)
